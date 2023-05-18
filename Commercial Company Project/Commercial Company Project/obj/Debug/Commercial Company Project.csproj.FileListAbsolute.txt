@@ -1,0 +1,12 @@
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\bin\Debug\Commercial Company Project.exe.config
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\bin\Debug\Commercial Company Project.exe
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\bin\Debug\Commercial Company Project.pdb
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial Company Project.csproj.AssemblyReference.cache
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial Company Project.csproj.SuggestedBindingRedirects.cache
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial_Company_Project.Form1.resources
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial_Company_Project.Properties.Resources.resources
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial Company Project.csproj.GenerateResource.cache
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial Company Project.csproj.CoreCompileInputs.cache
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial Company Project.exe
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial Company Project.pdb
+E:\iTi\Project\Commercial Company Project\Commercial Company Project\obj\Debug\Commercial_Company_Project.Form2.resources
