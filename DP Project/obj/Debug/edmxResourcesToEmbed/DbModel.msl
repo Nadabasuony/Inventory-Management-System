@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TradingCompanyModelStoreContainer" CdmEntityContainer="TradingCompanyEntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="Cust_ID" ColumnName="Cust_ID" />
+          <ScalarProperty Name="Cust_Name" ColumnName="Cust_Name" />
+          <ScalarProperty Name="Cust_Mobile" ColumnName="Cust_Mobile" />
+          <ScalarProperty Name="Cust_Telephone" ColumnName="Cust_Telephone" />
+          <ScalarProperty Name="Cust_Fax" ColumnName="Cust_Fax" />
+          <ScalarProperty Name="Cust_Email" ColumnName="Cust_Email" />
+          <ScalarProperty Name="Cust_Website" ColumnName="Cust_Website" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Items">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Item">
+        <MappingFragment StoreEntitySet="Item">
+          <ScalarProperty Name="Item_Code" ColumnName="Item_Code" />
+          <ScalarProperty Name="Item_Name" ColumnName="Item_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Measurements">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Measurement">
+        <MappingFragment StoreEntitySet="Measurement">
+          <ScalarProperty Name="Measure_ID" ColumnName="Measure_ID" />
+          <ScalarProperty Name="Measure_Name" ColumnName="Measure_Name" />
+          <ScalarProperty Name="Item_Code" ColumnName="Item_Code" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permissions">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Permission">
+        <MappingFragment StoreEntitySet="Permission">
+          <ScalarProperty Name="Permission_ID" ColumnName="Permission_ID" />
+          <ScalarProperty Name="Permission_Date" ColumnName="Permission_Date" />
+          <ScalarProperty Name="Permission_Type" ColumnName="Permission_Type" />
+          <ScalarProperty Name="Store_ID" ColumnName="Store_ID" />
+          <ScalarProperty Name="Supp_ID" ColumnName="Supp_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Permissioned_Item">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Permissioned_Item">
+        <MappingFragment StoreEntitySet="Permissioned_Item">
+          <ScalarProperty Name="PI_ID" ColumnName="PI_ID" />
+          <ScalarProperty Name="Permission_ID" ColumnName="Permission_ID" />
+          <ScalarProperty Name="Item_Code" ColumnName="Item_Code" />
+          <ScalarProperty Name="Item_Total" ColumnName="Item_Total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stores">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Store">
+        <MappingFragment StoreEntitySet="Store">
+          <ScalarProperty Name="Store_ID" ColumnName="Store_ID" />
+          <ScalarProperty Name="Store_Name" ColumnName="Store_Name" />
+          <ScalarProperty Name="Store_Address" ColumnName="Store_Address" />
+          <ScalarProperty Name="Store_Manager" ColumnName="Store_Manager" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Store_Item">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Store_Item">
+        <MappingFragment StoreEntitySet="Store_Item">
+          <ScalarProperty Name="Store_ID" ColumnName="Store_ID" />
+          <ScalarProperty Name="Item_Code" ColumnName="Item_Code" />
+          <ScalarProperty Name="Item_Total" ColumnName="Item_Total" />
+          <ScalarProperty Name="Production_Date" ColumnName="Production_Date" />
+          <ScalarProperty Name="Expiration_Date" ColumnName="Expiration_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Supplier">
+        <MappingFragment StoreEntitySet="Supplier">
+          <ScalarProperty Name="Supp_ID" ColumnName="Supp_ID" />
+          <ScalarProperty Name="Supp_Name" ColumnName="Supp_Name" />
+          <ScalarProperty Name="Supp_Mobile" ColumnName="Supp_Mobile" />
+          <ScalarProperty Name="Supp_Telephone" ColumnName="Supp_Telephone" />
+          <ScalarProperty Name="Supp_Fax" ColumnName="Supp_Fax" />
+          <ScalarProperty Name="Supp_Email" ColumnName="Supp_Email" />
+          <ScalarProperty Name="Supp_Website" ColumnName="Supp_Website" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Transfer_Item">
+      <EntityTypeMapping TypeName="TradingCompanyModel.Transfer_Item">
+        <MappingFragment StoreEntitySet="Transfer_Item">
+          <ScalarProperty Name="Trans_ID" ColumnName="Trans_ID" />
+          <ScalarProperty Name="From_ID" ColumnName="From_ID" />
+          <ScalarProperty Name="To_ID" ColumnName="To_ID" />
+          <ScalarProperty Name="Supp_ID" ColumnName="Supp_ID" />
+          <ScalarProperty Name="Item_Code" ColumnName="Item_Code" />
+          <ScalarProperty Name="Item_Total" ColumnName="Item_Total" />
+          <ScalarProperty Name="Production_Date" ColumnName="Production_Date" />
+          <ScalarProperty Name="Expiration_Date" ColumnName="Expiration_Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

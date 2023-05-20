@@ -1,0 +1,23 @@
+E:\iTi\Project\DP Project\DP Project\bin\Debug\DP Project.exe.config
+E:\iTi\Project\DP Project\DP Project\bin\Debug\DP Project.exe
+E:\iTi\Project\DP Project\DP Project\bin\Debug\DP Project.pdb
+E:\iTi\Project\DP Project\DP Project\bin\Debug\EntityFramework.dll
+E:\iTi\Project\DP Project\DP Project\bin\Debug\EntityFramework.SqlServer.dll
+E:\iTi\Project\DP Project\DP Project\bin\Debug\EntityFramework.xml
+E:\iTi\Project\DP Project\DP Project\bin\Debug\EntityFramework.SqlServer.xml
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.csproj.AssemblyReference.cache
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.csproj.SuggestedBindingRedirects.cache
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form1.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form2.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Properties.Resources.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.csproj.GenerateResource.cache
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.csproj.CoreCompileInputs.cache
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.csproj.CopyComplete
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.exe
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP Project.pdb
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form3.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form4.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form5.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form6.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form8.resources
+E:\iTi\Project\DP Project\DP Project\obj\Debug\DP_Project.Form7.resources
